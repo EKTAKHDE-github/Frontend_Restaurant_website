@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OUR MENU PAGE </title>
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      grid-template-rows: auto auto auto;
+      column-gap: 20px;
+      row-gap: 50px;
+      padding: 32px;
+      column-gap: 30px;
+      row-gap: 50px;
+    }
+    .grid-container2 {
+      display: flex;
+      grid-template-columns: auto auto auto auto;
+      grid-template-rows: auto auto auto;
+      column-gap: 20px;
+      row-gap: 50px;
+      padding: 32px;
+      column-gap: 30px;
+      row-gap: 50px;
+    }
+    .grid-item {
+      border: solid;
+      display: flex;
+      grid-template-columns: auto auto auto auto;
+      grid-template-rows: auto auto auto;
+      column-gap: 2px;
+      row-gap: 1px;
+      padding: 2px;
+    }
+    div {
+      height: 200px;
+      width: 100%;
+      background-image: linear-gradient(#B721FF, #21d4fc);
+      margin-bottom: 85px;
+      transition: hover;
+    }
+    img {
+      width: 300px;
+      height: 200px;
+      display: inline-block;
+      margin-inline: auto;
+      transition: width 1s, hight 2s;
+    }
+    img:hover {
+      width: 310px;
+      height: 210px;
+    }
+    button:hover {
+      background-color: #ED5AB3;
+    }
+    button {
+      font-size: larger;
+      text-align: center;
+      border: solid black;
+      background-color: #FBDA61;
+      padding: 11px;
+      margin: 2px;
+      font-family: fantasy;
+    }
+    button:hover {
+      background-color: #ED5AB3;
+    }
+    h1 {
+      background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+      text-color: black;
+      text-align: center;
+      font-style: italic;
+      border-style: solid;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>BREAKFAST</h1>
+  <div class="grid-container">
+    <img src="IMAGES/images (11).jpg">
+    <img src="IMAGES/images (12).jpg">
+    <img src="IMAGES/images (1).jpg">
+    <img src="IMAGES/images (3).jpg">
+    <button class="button1">Dhokla</button>
+    <button class="button2">Idli Sambar</button>
+    <button class="button3">Upma </button>
+    <button class="button4">paratha</button>
+  </div>
+  <h1>LUNCH</h1>
+  <div class="grid-container">
+    <img src="IMAGES/download (2).jpg">
+    <img src="IMAGES/download (3).jpg">
+    <img src="IMAGES/images (2).jpg">
+    <img src="IMAGES/images (13).jpg">
+    <button class="button1">Thali</button>
+    <button class="button2">Dal Makhani</button>
+    <button class="button3">Palak Paneer </button>
+    <button class="button4">Chicken Tikka Masala</button>
+  </div>
+  <h1>DINNER</h1>
+  <div class="grid-container">
+    <img src="IMAGES/download (1).jpg">
+    <img src="IMAGES/images (5).jpg">
+    <img src="IMAGES/download (4).jpg">
+    <img src="IMAGES/images (10).jpg">
+    <button class="button1">Noodles</button>
+    <button class="button2">Pasta</button>
+    <button class="button3">Veg Manchurian</button>
+    <button class="button4">Veg Fried Rice </button>
+  </div>
+</body>
+</html>
