@@ -45,6 +45,6 @@ Heading Styling:
 Adjust heading text alignment, border styles, and font styles.
 Include additional <h3> with specific font variant, font family, and text decoration.
 Content:
-Use <p> tag for a short note.
+
 Style paragraph text with italic font style and larger font size.
 Feel free to expand or customize each section based on your specific requirements and design preferences. This structure provides a clear outline for implementing the described features on each page.
