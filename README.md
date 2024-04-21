@@ -30,8 +30,11 @@ Style headings with italic font style and solid borders.
 Content Structure:
 Use grid container for each heading section (BREAKFAST, LUNCH, DINNER).
 Include different images and buttons styled for each meal category.
+
 Contact Us Page
+
 Title: "Contact Us"
+
 ![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/7f16d195-543b-47c0-88f8-f65fd37377c1)
 Background Image: Implement a linear gradient with hexadecimal color codes.
 Content:
@@ -41,7 +44,9 @@ Style form inputs with font size, margin, padding, and width.
 Apply rounded borders to form fields.
 Use specific input types for name (text) and email (email).
 Include a submit button with hover effect for form submission.
+
 About Us Page
+
 Title: "About Us"
 ![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/4ab70457-b1b3-4631-be07-9d7ba0e6e6b5)
 Background Effect: Utilize linear gradient for background styling.
