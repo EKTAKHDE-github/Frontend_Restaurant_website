@@ -32,7 +32,7 @@ Contact Us Page
 Title: "Contact Us"
 Background Image: Implement a linear gradient with hexadecimal color codes.
 Content:
-Use <h2> for the heading.
+
 Create a form with input fields for name, email, and a textarea for messages.
 Style form inputs with font size, margin, padding, and width.
 Apply rounded borders to form fields.
