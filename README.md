@@ -15,10 +15,8 @@ HTML Structure:
 Use <div> with appropriate class names for container and grid layout.
 Apply a distinct class to buttons that redirect to different pages.
 Menu Page
-![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/e8d3ee75-aeec-4dc1-998a-72521c007afa)
-
-
 Title: "Menu Page"
+![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/e8d3ee75-aeec-4dc1-998a-72521c007afa)
 Layout: Utilize grid-container to display content in grid format.
 Define grid-template-columns and grid-template-rows for image alignment.
 Use padding for spacing and border effects.
@@ -33,9 +31,8 @@ Content Structure:
 Use grid container for each heading section (BREAKFAST, LUNCH, DINNER).
 Include different images and buttons styled for each meal category.
 Contact Us Page
-![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/7f16d195-543b-47c0-88f8-f65fd37377c1)
-
 Title: "Contact Us"
+![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/7f16d195-543b-47c0-88f8-f65fd37377c1)
 Background Image: Implement a linear gradient with hexadecimal color codes.
 Content:
 Use <h2> for the heading.
@@ -45,10 +42,8 @@ Apply rounded borders to form fields.
 Use specific input types for name (text) and email (email).
 Include a submit button with hover effect for form submission.
 About Us Page
-![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/4ab70457-b1b3-4631-be07-9d7ba0e6e6b5)
-
-
 Title: "About Us"
+![image](https://github.com/EKTAKHDE-github/Frontend_Restaurant_website/assets/141849760/4ab70457-b1b3-4631-be07-9d7ba0e6e6b5)
 Background Effect: Utilize linear gradient for background styling.
 Heading Styling:
 Adjust heading text alignment, border styles, and font styles.
