@@ -43,7 +43,7 @@ Title: "About Us"
 Background Effect: Utilize linear gradient for background styling.
 Heading Styling:
 Adjust heading text alignment, border styles, and font styles.
-Include additional <h3> with specific font variant, font family, and text decoration.
+Include additional  with specific font variant, font family, and text decoration.
 Content:
 
 Style paragraph text with italic font style and larger font size.
